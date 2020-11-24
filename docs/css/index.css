@@ -131,7 +131,7 @@ div#mainContents .leftcontainer {
 	width: 680px;
 	float: left;
 }
-#mainContents #entry_button {
+#entry_button {
 	display:block;
     background: #FFF;
     padding: 0px;
