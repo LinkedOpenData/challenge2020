@@ -301,6 +301,13 @@ div#bannerBox ul li{
 	text-align: center;
 }
 
+@media only screen and (max-width:750px){
+	#entry #link-to-method{
+		width: 100%;
+		padding: 7px 0 7px 0;
+	}
+}
+
 #entry .prize-category {
 	margin: 0 0 10px 20px;
 }
